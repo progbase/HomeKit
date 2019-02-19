@@ -9,12 +9,9 @@
 
 #### Description:
 
-Our device will become an indispensable assistant for you and even more! It may also be your perfect pet. We call it the HOMEKIT. 
-The design features of this device will allow you to move things, remotely monitor the room, and if you suddenly get bored, it will tell you a good joke.
-With the help of a remote control you can manage its movement, as well as the movement of the manipulator. The device will be able to carry small-sized cargo in a special luggage compartment located near the manipulator. Also, your pet can follow your face and go back in its direction. And when you are not at home, you will have video surveillance for your home (or room in the hostel).
-It should be noted separately that the great feature of this device will be communication with the owner with the built-in speaker and microphone. And it’ll have the ability to display emotions with its display, which makes our device even more pet-like. 
-
-Your future friend, HomeKit.
+Our device will become an indispensable assistant for you and even become YOUR perfect pet. We call it HOMEKIT.
+Design features of this device will allow you to move things, remotely observe the room, and if you suddenly get bored, it will tell you a good joke. Remote control allows you to control both device and the manipulator. Face tracking technology gives HOMEKIT the ability to recognise facial expressions of the user. And when you are away from home, it will keep watching over your house. The most valuable feature of this device is interaction with the owner via built-in speaker and microphone. As a bonus, HOMEKIT display emotions on its screen which makes our device even more pet-like.
+Your future friend – HomeKit.
 
 #### The Team:  
 - [**Жиров Даниїл**](https://github.com/daniilzhyrov) - Team Lead, Product Owner (PO)
