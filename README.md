@@ -10,7 +10,9 @@
 #### Description:
 
 Our device will become an indispensable assistant for you and even become YOUR perfect pet. We call it HOMEKIT.
+
 Design features of this device will allow you to move things, remotely observe the room, and if you suddenly get bored, it will tell you a good joke. Remote control allows you to control both device and the manipulator. Face tracking technology gives HOMEKIT the ability to recognise facial expressions of the user. And when you are away from home, it will keep watching over your house. The most valuable feature of this device is interaction with the owner via built-in speaker and microphone. As a bonus, HOMEKIT display emotions on its screen which makes our device even more pet-like.
+
 Your future friend – HomeKit.
 
 #### The Team:  
