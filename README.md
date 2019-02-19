@@ -24,8 +24,8 @@ Your future friend – HomeKit.
 - [**Римаренко Ілля**](https://github.com/ProbablyNextTime) - Software Engineer
 - [**Кривчук Денис**](https://github.com/dionissqq) - Software Engineer
 #### Documentation:
-- ##### [**Team in the organization**](https://github.com/orgs/progbase/teams/gryadochka)
-- ##### [**Github project**](https://github.com/orgs/progbase/projects/6)
-- ##### [**Repository**](https://github.com/progbase/HomeKit)
-- ##### [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
-- ##### [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
+- [**Team in the organization**](https://github.com/orgs/progbase/teams/gryadochka)
+- [**Github project**](https://github.com/orgs/progbase/projects/6)
+- [**Repository**](https://github.com/progbase/HomeKit)
+- [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
+- [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
