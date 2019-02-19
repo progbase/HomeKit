@@ -1,7 +1,7 @@
 # *HomeKit*
 ****
 *' Pet of the future '*
-<img align="right" src="https://lh3.googleusercontent.com/kIg0131j_O5ai19p_8nWjyXhCssX2yWOfsD2Q3GLdatGKEvKfhYwpIpUwViMJsvqVSScQGqIeXwQAOQVl_Q9tmOJNp42vZLwv4I9W5EcKkSPKNVctYgwMlh69gurPkmgEZ-k-qzpOmYW-LmjmIicsyn5CubwX0CSBAvDMjUlR8RMmIO9yKx-rWid5Y9oxPgz-clxTYFlnkMhrEowS6GvvgYQnIt6EQ5q9AtHCxZIuqqziDNLmDtd2qZBHyGYjCOMxuc36K6DA2GoV7saoXYau7mvBlsqYTurj2PrxVlNnZR-vwkwwn33_znyGJ8hwUWlEI-uu_K7owqsDMuadUOGg_0dBjXURF-TdtRDNzeFuGI_59-3QyAtAir2sKC_2vlU3H62GnUNuA7a1WD2hTiYyBhMDXhkvemwDTj-xPGW2RB-qrBdM1szSSzCY6KpPL3a9B86L-yPcKk1u-yuMoZ-iTu4p1jBWzjkZPvlP-DL2oF7tC4_9bkFF59JGK5FTVilwClUJbeK7QOCjpxIGVwM2lA_BKMXedoFHWnTC8zolMqTGMnWVFwDp3HeFa8-Gs54xoXeTegrToJbhup8ZchQTbMWZzMVEygFGVBYByjPwaEMmtZVhpGb-50bP1jF48SR1iS9OgLHrcjkgdLnKDRCB3THE-IGacNj=s612-no" width="400" height="400" />
+<img align="right" src="https://i.imgur.com/6nyD8H7.png" width="400" height="400" />
 ##### Developer: ***GRYADOCHKA***
 ##### Release : *2019*
 ##### Platform : *Android, PC*
