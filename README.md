@@ -1,18 +1,32 @@
-# GRYADOCHKA
-#### **Учасники**: 
- - Даниїл Жиров
- - Джергалова Рената
- - Глушко Анастасія
- - Римаренко Ілля
- - Сиромятніков Микита
- - Шалімов Андрій
- - Кривчук Денис
+# *HomeKit*
 ****
-#### **Логотип**:
-![Логотип](https://lh3.googleusercontent.com/fLTjaGl4kekqlvDJS-KoL0qCEplNhMa2XbAD-RMgQ2qB4AeGIqgMLFFc-2NtpHjz9wKmUjapPvygz-jokPWFqnKDNz58h4fbG4YHNesVmhjd_cnXLD-CEMOKvCPHj9aH_snAa3bZSwisAYLjj8y8xVfElJU7xTNiOeI0ZtrQQyaKk_FXVAudV3y_2fI3E3dwwjNxpEvJIfOuiem3ZOF-NXi5lFkGLqPAlo6VqNuuQ0MWxlbgYCGVN1aPmOUrQGXJHF2CGb3lRlvo7jFvB2B-HjP8-TrQcnlh887UeIk3cmUI2wWzfx73XVsL52Qml_U4STz0uLqOSNmY3ydznaTfwJEdePUFfUIK1s-F7EUis-jFVJEjMdQz9ddD0PUS81O9woqqVXScqbYET7obUpEkCVEt5ONlbvMlFg3hz0_QJtL48cP1yDIUhIL6O4-sL7rHckL0rremBTg6kEtbvKHpHQfWdWIBcAhaxGyGvNw0MQIAuBs9G4YZfvvsx6JAhB36l8VNvT-qD-iVW9bNeIct3CFDBX5UmsVmp0Z5mJW76ebxPHas2WeqsajlSWQV9tyaoIE0Fa87fdeEOTK8JgegK9HKu3pGUKbkT11uSqotl9kYWXGRpqjxsMKF65P8v66BK-e0sWLuG-jHQTOWSP2sYwd8Nv76Gwo3d77LhAq4a0c3t620T2ChxTEt-HKmAhi27XRfSa9dLi7tPvqvrgKkdMY-5A=s230-no)
-****
-- ##### [**Команда в організації**](https://github.com/orgs/progbase/teams/gryadochka)
-- ##### **Назва проекту**:  HomeKit 
-- ##### [**Github проект**](https://github.com/orgs/progbase/projects/6)
-- ##### [**Таблиця деталей**]()
-- ##### [**Презентація ідеї проекту**]()
+*' Pet of the future '*
+<img align="right" src="https://lh3.googleusercontent.com/kIg0131j_O5ai19p_8nWjyXhCssX2yWOfsD2Q3GLdatGKEvKfhYwpIpUwViMJsvqVSScQGqIeXwQAOQVl_Q9tmOJNp42vZLwv4I9W5EcKkSPKNVctYgwMlh69gurPkmgEZ-k-qzpOmYW-LmjmIicsyn5CubwX0CSBAvDMjUlR8RMmIO9yKx-rWid5Y9oxPgz-clxTYFlnkMhrEowS6GvvgYQnIt6EQ5q9AtHCxZIuqqziDNLmDtd2qZBHyGYjCOMxuc36K6DA2GoV7saoXYau7mvBlsqYTurj2PrxVlNnZR-vwkwwn33_znyGJ8hwUWlEI-uu_K7owqsDMuadUOGg_0dBjXURF-TdtRDNzeFuGI_59-3QyAtAir2sKC_2vlU3H62GnUNuA7a1WD2hTiYyBhMDXhkvemwDTj-xPGW2RB-qrBdM1szSSzCY6KpPL3a9B86L-yPcKk1u-yuMoZ-iTu4p1jBWzjkZPvlP-DL2oF7tC4_9bkFF59JGK5FTVilwClUJbeK7QOCjpxIGVwM2lA_BKMXedoFHWnTC8zolMqTGMnWVFwDp3HeFa8-Gs54xoXeTegrToJbhup8ZchQTbMWZzMVEygFGVBYByjPwaEMmtZVhpGb-50bP1jF48SR1iS9OgLHrcjkgdLnKDRCB3THE-IGacNj=s612-no" width="400" height="400" />
+##### Developer: ***GRYADOCHKA***
+##### Release : *2019*
+##### Platform : *Android, PC*
+##### Programming languages : *C++, java*
+
+#### Description:
+
+Our device will become an indispensable assistant for you and even more! It may also be your perfect pet. We call it the HOMEKIT. 
+The design features of this device will allow you to move things, remotely monitor the room, and if you suddenly get bored, it will tell you a good joke.
+With the help of a remote control you can manage its movement, as well as the movement of the manipulator. The device will be able to carry small-sized cargo in a special luggage compartment located near the manipulator. Also, your pet can follow your face and go back in its direction. And when you are not at home, you will have video surveillance for your home (or room in the hostel).
+It should be noted separately that the great feature of this device will be communication with the owner with the built-in speaker and microphone. And it’ll have the ability to display emotions with its display, which makes our device even more pet-like. 
+
+Your future friend, HomeKit.
+
+#### The Team:  
+- [**Жиров Даниїл**](https://github.com/daniilzhyrov) - Team Lead, Product Owner (PO)
+- [**Джергалова Рената**](https://github.com/le-kalmique) - Creative designer
+- [**Глушко Анастасія**](https://github.com/nastyaglushko) - Scrum Master 
+- [**Шалімов Андрій**](https://github.com/mycodeiscat) - Technical leader
+- [**Сиромятніков Микита**](https://github.com/Nik1tasm) - QA Engineer, Hardware Engineer
+- [**Римаренко Ілля**](https://github.com/ProbablyNextTime) - Software Engineer
+- [**Кривчук Денис**](https://github.com/dionissqq) - Software Engineer
+#### Documentation:
+- ##### [**Team in the organization**](https://github.com/orgs/progbase/teams/gryadochka)
+- ##### [**Github project**](https://github.com/orgs/progbase/projects/6)
+- ##### [**Repository**](https://github.com/progbase/HomeKit)
+- ##### [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
+- ##### [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
