@@ -1,7 +1,7 @@
 # *HomeKit*
 ****
 *' Pet of the future '*
-<img align="right" src="https://i.imgur.com/6nyD8H7.png" width="400" height="400" />
+<img align="right" src="https://i.imgur.com/6nyD8H7.png" width="350" height="350" />
 ##### Developer: ***GRYADOCHKA***
 ##### Release : *2019*
 ##### Platform : *Android, PC*
@@ -29,3 +29,6 @@ Your future friend – HomeKit.
 - [**Repository**](https://github.com/progbase/HomeKit)
 - [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
 - [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
+- [**Backlog**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=0)
+- [**Sprint 1**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=911513633)
+- [**Sprint 1 planing**](https://docs.google.com/document/d/1TWNODkeiwLQaMklG_nyS25lRXNq29ExbJCHUb5HelgI/edit)
