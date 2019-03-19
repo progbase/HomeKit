@@ -30,6 +30,11 @@ Your future friend – HomeKit.
 - [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
 - [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
 - [**Backlog**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=0)
+#### Artifacts Sprint 1:
 - [**Tasks sprint 1**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=911513633)
-- [**Availability of participants**](https://docs.google.com/document/d/1TWNODkeiwLQaMklG_nyS25lRXNq29ExbJCHUb5HelgI/edit)
+- [**Plan**](https://docs.google.com/document/d/1TWNODkeiwLQaMklG_nyS25lRXNq29ExbJCHUb5HelgI/edit)
 - [**Sprint 1 presentation**](https://docs.google.com/presentation/d/1AVIn1SLPs3mk1NeoETsZqFrA-mEeoUq3JR3bSBaRAL8/edit#slide=id.g4d1de9b895_0_1516)
+- [**Retrospective**](https://docs.google.com/spreadsheets/d/1D38zsEo0lLLWKJ5LPqB9pn0SP6OBRU4Uqhg8xISAuDY/edit#gid=0)
+#### Artifacts Sprint 2:
+- [**Tasks sprint 2**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=1635750910)
+- [**Plan**](https://docs.google.com/document/d/1OllxmuD_oIc9DMxwn_ISI7PhWtCSLhCrsA1aImLRJgI/edit)
