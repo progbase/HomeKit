@@ -1,0 +1,3 @@
+configured=YES
+name=Homekit
+id=355
