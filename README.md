@@ -38,3 +38,4 @@ Your future friend – HomeKit.
 #### Artifacts Sprint 2:
 - [**Tasks sprint 2**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=1635750910)
 - [**Plan**](https://docs.google.com/document/d/1OllxmuD_oIc9DMxwn_ISI7PhWtCSLhCrsA1aImLRJgI/edit)
+- [**Sprint 2 presentation**](https://docs.google.com/presentation/d/1JNMfphWq7OyM7QE4j4_1Diz9gbzcRJvXosa470FSp8U/edit?usp=sharing)
