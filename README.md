@@ -5,7 +5,7 @@
 ##### Developer: ***GRYADOCHKA***
 ##### Release : *2019*
 ##### Platform : *Android, PC*
-##### Programming languages : *C++, java*
+##### Programming languages : *C++, C, python, java*
 
 #### Description:
 
@@ -30,6 +30,8 @@ Your future friend – HomeKit.
 - [**Сomponent table**](https://docs.google.com/spreadsheets/d/1DZDRZkOOVyxAc-M4gztyLiYBIonay2FJwdMOpIrwLXU/edit#gid=0)
 - [**Presentation of the project idea**](https://docs.google.com/presentation/d/1sRCOvDxCtTtzu4tZIpsS6Pp-erHIy61-DXYOvgvIS_o/edit)
 - [**Backlog**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=0)
+- [**Documentation**](https://docs.google.com/document/d/1J-COo903CtlfHcF6D8nRxP4SeTLMjAdzGZ7n2YGVbGU/edit)
+- [**Video**](https://www.youtube.com/watch?v=3SmWUXVU30c&feature=youtu.be)
 #### Artifacts Sprint 1:
 - [**Tasks sprint 1**](https://docs.google.com/spreadsheets/d/1aQ9tZgT522S94e3fBasuauoAigkkwkmBKEJNF5MWtSg/edit#gid=911513633)
 - [**Plan**](https://docs.google.com/document/d/1TWNODkeiwLQaMklG_nyS25lRXNq29ExbJCHUb5HelgI/edit)
